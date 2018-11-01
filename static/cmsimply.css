@@ -1,9 +1,9 @@
 .container {
   position: relative;
-  background-image:(https://breeze-assets.breeze.com.tw/shop/14369922_1284049458272243_7869446506497016237_n.jpg?15186660724698);
+  background-image:url(https://breeze-assets.breeze.com.tw/shop/14369922_1284049458272243_7869446506497016237_n.jpg?15186660724698);
 }
 header{
-  background-image:(http://content.nike.com/content/dam/one-nike/globalAssets/social_media_images/nike_swoosh_logo_black.png);
+  background-image:url(http://content.nike.com/content/dam/one-nike/globalAssets/social_media_images/nike_swoosh_logo_black.png);
   padding: 20px;
 }
 confmenu
