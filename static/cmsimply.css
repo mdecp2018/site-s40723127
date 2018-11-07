@@ -1,10 +1,10 @@
 .container {
   position: relative;
   
-  background-image:url(https://img.everrich.com/img/p/5/7/3/3/5/57335-large_default.jpg);
+  background-image:url();
 }
 header{
-  background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIvjgkB3oYjXbrzKXLBz6kF3Q3ehDCZCErjiNiAQjZPTsTWlIPLg);
+  background-image:url();
   padding: 20px;
 }
 confmenu
@@ -203,6 +203,8 @@ background-color: white;
 width: 195px;
 }
 body {
+  background-image:url(https://vignette.wikia.nocookie.net/spongebobsquarepants/images/2/27/Spongebob-Squarepants-Krusty-Krab-1-.png/revision/latest?cb=20140619120644&path-prefix=zh);
   margin-bottom: 120px;
+  background-size:90%
 }
 
